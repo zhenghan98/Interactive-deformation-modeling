@@ -1,2 +1,2 @@
 # Interactive-deformation-modeling
-[![Watch the video](Phanto~2.mp4)
+[![Watch the video](Phantom~2.mp4)
