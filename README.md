@@ -11,8 +11,7 @@ This repository accompanies the work:
 
 Click the link below to view the video demonstration of the interactive deformation modeling framework:
 
-👉 [Watch Video](https://zhenghan98.github.io/video_demo/assets/video.mp4)
-https://zhenghan98.github.io/video_demo/assets/video.mp4
+👉 [Watch Video](https://zhenghan98.github.io/video_demo/interactive_deformation_modeling.mp4)
 
 ---
 
