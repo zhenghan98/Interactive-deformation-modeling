@@ -1,4 +1,4 @@
-# Interactive Deformation Modeling Demo
+# Interactive Deformation Modeling
 
 This repository accompanies the work:
 
